@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
-  },
+  },   
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "none",  
     "displayMode": "diff",
@@ -13,7 +13,7 @@
     
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW"
+    "minSeverityLevel": "LOW"      
   }
 } 
 
